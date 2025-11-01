@@ -11,6 +11,6 @@ __all__ = [
     "ImmoscoutAPIError",
     "ImmoscoutHTTPError",
     "convert_web_to_mobile",
-    "get_page_url",
     "get_expose_details_url",
+    "get_page_url",
 ]
